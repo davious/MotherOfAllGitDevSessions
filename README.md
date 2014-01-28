@@ -5,4 +5,4 @@ Resources and Collaboration Space for Exploring Git In VisualStudio Land and Git
 
 Check out the [wiki](../../wiki)
 
-View the [slides](http://www.slideshare.net/davedavious/git-25385763)
+View the [slides](http://slid.es/davious/git)
